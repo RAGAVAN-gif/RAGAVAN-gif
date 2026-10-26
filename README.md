@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi, I'm Ragavan 👋
 
-<!--
-**RAGAVAN-gif/RAGAVAN-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+I'm a final-year B.Tech Information Technology student passionate about software development and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech in Information Technology at Mahendra College of Engineering.
+- 💻 Interested in Java backend development and full-stack application development.
+- 🌱 Currently strengthening my skills in Java, Spring Boot, Hibernate, and REST API development.
+- 🎯 Career goal: To become a skilled Software Developer and contribute to real-world projects.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+- Java
+- Python
+
+### Backend Development
+
+- Spring Boot
+- JDBC
+- Hibernate / JPA
+- REST API development
+
+### Frontend Development
+
+- HTML
+- CSS
+- JavaScript
+- Angular
+- AJAX
+
+### Database
+
+- SQL
+- Postgres Sql
+
+### Tools
+
+- Git
+- GitHub
+- Eclipse IDE
+- Visual Studio Code
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Library Management System
+
+A library management application focused on managing library records and performing CRUD operations.
+
+**Key areas:** Create, Read, Update, and Delete operations; data management; database integration.
+
+🔗 [View Repository](https://github.com/RAGAVAN-gif/Library-management-system)
+
+### 2. Python Chat Application
+
+A Python-based chat application that uses socket programming and TCP/IP communication to support messaging between multiple users.
+
+**Features:**
+
+- Client-server communication
+- Multithreading
+- Group messaging and private messaging
+- Chat history
+- File sharing
+- Command-line and Tkinter GUI interfaces
+
+🔗 [View Repository](https://github.com/RAGAVAN-gif/Chat-Application-Mini--v)
+
+---
+
+## 🎓 Education
+
+**B.Tech in Information Technology**
+Mahendra College of Engineering
+2023 – 2027
+
+---
+
+## 📊 GitHub Statistics
+
+
+
+
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: [RAGAVAN-gif](https://github.com/RAGAVAN-gif)
+
+I'm always interested in learning new technologies, improving my programming skills, and building useful software projects.
+
+**Thanks for visiting my profile!** ⭐
+
