@@ -11,7 +11,6 @@ I'm a final-year B.Tech Information Technology student passionate about software
 
 ---
 
-## 🛠️ Technical Skills
 ## 🛠️ Tech Stack
 
 ### Languages
