@@ -12,6 +12,32 @@ I'm a final-year B.Tech Information Technology student passionate about software
 ---
 
 ## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" alt="Java and Python" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Spring and Hibernate" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular" alt="HTML, CSS, JavaScript, and Angular" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code, and Eclipse" />
+</p>
 
 ### Programming Languages
 
